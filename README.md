@@ -2,7 +2,7 @@
 #### A passionate frontend developer from Cambodia
 ![A passionate frontend developer from Cambodia](https://media.discordapp.net/attachments/881945325261189150/986975180805001327/simple-youtube-banner-maker-for-gaming-vloggers-2470.jpg?width=1213&height=682)
 
-
+![Profile views](https://gpvc.arturio.dev/vanna-code)  
 Skills: TYS / JS / HTML / CSS
 
 - 🔭 I’m currently working on I’m currently working on Discord 
@@ -17,6 +17,4 @@ Skills: TYS / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vanna-code)  
 
-![GitHub metrics](https://metrics.lecoq.io/vanna-code)  
 
-![Profile views](https://gpvc.arturio.dev/vanna-code)  
