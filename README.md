@@ -1,5 +1,4 @@
-### Hi there 👋, my name is  Vanna-code
-#### A passionate frontend developer from Cambodia
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A00F7&lines=Hello!+Am+Vanna;Am+from+cambodia+!)](https://git.io/typing-svg)
 ![A passionate frontend developer from Cambodia](https://media.discordapp.net/attachments/881945325261189150/986975180805001327/simple-youtube-banner-maker-for-gaming-vloggers-2470.jpg?width=1213&height=682)
 
 ![Profile views](https://gpvc.arturio.dev/vanna-code)  
